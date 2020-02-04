@@ -16,3 +16,12 @@
   .titletext{
     font-family: 'Great Vibes', cursive;
   }
+  .bg-black{
+    background-color: black;
+  }
+  .textwhite{
+    color: white;
+  }
+  .font25{
+    font-size: 25px;
+  }
