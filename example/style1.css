@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+
+.no-gutter {
+    margin: 0;
+  }
+  
+  .section {
+    min-height: 350px;
+  }
+  .bottomborder{
+    border-bottom: black solid 3px;
+  }
+  .lightyellow{
+    background-color: lightgoldenrodyellow;
+  }
+  .titletext{
+    font-family: 'Great Vibes', cursive;
+  }
